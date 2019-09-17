@@ -5,7 +5,7 @@ using ObligatoriskOpgave1;
 namespace UnitTest
 {
     [TestClass]
-    public class UnitTest1
+    public class UnitTestBog
     {
         private Bog bog;
 
